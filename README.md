@@ -1,4 +1,4 @@
-// 2019112801 woo yebin
+// 9바이9인 스도쿠 맞는지 아닌지 판별
 
 import java.io.*;
 import java.util.*;
